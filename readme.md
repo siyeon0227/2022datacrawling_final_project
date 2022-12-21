@@ -8,3 +8,9 @@
 <p>1. 카카오는 현재 많은 사람들이 사용하고 우리 생활과 밀접해 있는 서비스가 많습니다. </p>
 <p>2. 데이터 센터화재로 인해 큰 주가 변동이 있었던 기업입니다. </p>
 <p>3. 코스피 11위에 달하는 우량주 기업중 하나입니다. </p>
+<hr>
+  <p>dailyMarketPrice_crawling.py - 일별 시세 크롤링</p>
+  <p>kakaonews_analyze.ipynb - 뉴스 기사 제목 감성 분석</p>
+  <p>kakaonews_keyword.ipynb - 뉴스 기사 제목 주요 단어 TOP100 </p>
+  <p>kakaonews_keyword2.ipynb - 뉴스 기사 제목 키워드 분석</p>
+  <p> news_crawling.py - 뉴스 크롤링</p>
